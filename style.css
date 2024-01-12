@@ -1,0 +1,24 @@
+body{
+    font-family:cursive ;
+    background-color:rgb(230, 39, 255);
+}
+a{
+    border: 5px dotted black;
+    margin: 30px;
+    text-decoration: none;
+    padding: 5px;
+}
+h1{
+    background-color:deeppink;
+    text-align: center;
+}
+h2{
+    background-color:purple;
+   text-align:center ; 
+}
+p{
+    margin: 50px;
+}
+.im{
+    text-align: center;
+}
